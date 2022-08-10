@@ -33,7 +33,7 @@ $$
 
 相较于 GANs, VAEs 与 Normalizing Flows 等生成式模型，扩散模型（Diffusion  Model）的思路非常简单：向数据中逐步地加入随机噪声，然后学习其逆向过程，希望最终能够从噪声中重建所需的数据样本 ——  有意思的地方在于，我们可以训练一个神经网络模型来学习逆向扩散过程。
 
-![image-20220808221940614](E:\github_code\github_code\DDPM\image-20220808221940614.png)
+![image-20220808221940614](.\image-20220808221940614.png)
 
 <center style="font-size:14px;color:#000;text-decoration:underline">Fig 1. DDPM前向逆向过程</center> 
 
@@ -337,7 +337,7 @@ $$
 
 为了更方便的描述这几项，论文中有以下的分类：
 
-![image-20220809165557431](E:\github_code\github_code\DDPM\image-20220809165557431.png)
+![image-20220809165557431](.\image-20220809165557431.png)
 
 ### 损失函数化简
 
