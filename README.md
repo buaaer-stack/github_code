@@ -14,3 +14,11 @@
 
 `checkpoints`以及一些生成结果：链接：https://pan.baidu.com/s/1MNddHMvGJ1pyivBqTlkUKQ 
 提取码：q878 
+
+- dalle-mini
+
+只有对dalle-mini的测试
+
+测试方式：`python test.py`
+
+根据官方要求下载相关依赖，如果`jax`不能用，可以参考[JAX: 库安装和GPU使用，解决不能识别gpu问题](https://blog.csdn.net/Papageno_Xue/article/details/125754893)
