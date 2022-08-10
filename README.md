@@ -11,3 +11,6 @@
 训练方式:`python train.py`
 
 文件夹中的pdf是由md文件生成的，不过md渲染炸了。
+
+`checkpoints`以及一些生成结果：链接：https://pan.baidu.com/s/1MNddHMvGJ1pyivBqTlkUKQ 
+提取码：q878 
